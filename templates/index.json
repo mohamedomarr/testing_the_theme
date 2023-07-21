@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "1d0bb279-0557-4faf-9a5d-27a9ac55062c": {
+      "type": "featured-image",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "section_style": "section-blank",
+        "image_link": ""
+      }
+    }
+  },
+  "order": [
+    "1d0bb279-0557-4faf-9a5d-27a9ac55062c"
+  ]
+}
